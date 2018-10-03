@@ -19,6 +19,7 @@ public class LightScannerApplication extends Application {
     public void onCreate() {
         super.onCreate();
         application = this;
+
     }
 
     public ExecutorService getExecutorService() {
